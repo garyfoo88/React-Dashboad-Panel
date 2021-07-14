@@ -2,6 +2,7 @@ import React from "react";
 import "./navbar.css";
 import { NotificationsNone, Language, Settings } from "@material-ui/icons";
 function Navbar() {
+
   return (
     <div className="navbar">
       <div className="navbar-container">
